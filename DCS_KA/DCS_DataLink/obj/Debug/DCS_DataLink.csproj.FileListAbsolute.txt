@@ -1,0 +1,56 @@
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe.config
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.pdb
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csprojResolveAssemblyReference.cache
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Form1.resources
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Properties.Resources.resources
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.GenerateResource.Cache
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.exe
+c:\users\damien\documents\visual studio 2013\Projects\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe.config
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csprojAssemblyReference.cache
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Form1.resources
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Properties.Resources.resources
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.GenerateResource.cache
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_DataLink2\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CoreCompileInputs.cache
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csprojAssemblyReference.cache
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Form1.resources
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.Properties.Resources.resources
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.GenerateResource.cache
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CoreCompileInputs.cache
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\obj\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe.config
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_DataLink_归零外挂\DCS_DataLink\DCS_DataLink\bin\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.Form1.resources
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.Properties.Resources.resources
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.GenerateResource.cache
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CoreCompileInputs.cache
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.exe.config
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.exe
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.pdb
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.dll
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.xml
+C:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CopyComplete
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.exe.config
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.exe
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\DCS_DataLink.pdb
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.DirectInput.dll
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.dll
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\bin\Debug\Microsoft.DirectX.xml
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.Form1.resources
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.Properties.Resources.resources
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.GenerateResource.cache
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CoreCompileInputs.cache
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csproj.CopyComplete
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.exe
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.pdb
+E:\笔记本数据备份\Projects\DCS_键盘辅助\DCS_DataLink\obj\Debug\DCS_DataLink.csprojAssemblyReference.cache
